@@ -12,7 +12,7 @@ HTML = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Student Result Predictor</title>
+    <title>Student Result Predictoor</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
